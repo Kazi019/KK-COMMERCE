@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\MySoftware]
+"FilePath"="C:\\path\\to\\your\\file.txt"
+"Website"="https://www.example.com"
+"Config"="config_value"
+"Theme"="dark_mode"
